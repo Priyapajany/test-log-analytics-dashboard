@@ -25,10 +25,6 @@ It transforms raw logs into **interactive dashboards** to help QA teams monitor 
 - Average execution time analysis.  
 - Interactive filters by module/date.  
 
-## Results
-- Insert screenshots of dashboards here.  
-- Example: *“Module X failed 35% more often compared to other modules.”*  
-
 ## How to Run
 ```bash
 git clone <repo_url>
